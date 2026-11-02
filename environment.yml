@@ -1,0 +1,11 @@
+name: ml
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - jupyterlab
+  - scikit-learn
+  - python=3.13
+  - matplotlib
+  - pandas
+prefix: C:\Users\moliisar\.conda\envs\ml
